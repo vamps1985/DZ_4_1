@@ -1,0 +1,60 @@
+.font {
+  width: 400px;
+  height: 550px;
+  background-color: #ffffff; }
+  .font .header {
+    width: 380px;
+    height: 530px;
+    border: 2px solid #5a5a5a;
+    vertical-align: middle;
+    text-align: center; }
+    .font .header p {
+      font-family: Tahoma;
+      font-size: 22px;
+      text-align: center;
+      font-family: Tahoma;
+      font-weight: 600; }
+    .font .header img {
+      vertical-align: middle; }
+    .font .header .sale {
+      width: 190px;
+      height: 31px;
+      background-color: #8bc144;
+      color: white;
+      box-shadow: 0 3px 3px 0 #9c9c9c; }
+      .font .header .sale p {
+        position: relative;
+        font-size: 22px;
+        font-family: Tahoma;
+        text-align: center;
+        font-weight: bold; }
+    .font .header .price {
+      font-size: 29px;
+      font-family: Tahoma;
+      line-height: 0.839;
+      position: absolute;
+      text-align: center;
+      left: 135px;
+      z-index: 5;
+      top: 430px;
+      font-weight: bold; }
+    .font .header .footer {
+      position: absolute;
+      display: inline-block;
+      left: 81px;
+      width: 229px;
+      height: 46px;
+      background-color: #ff0000;
+      top: 490px;
+      box-shadow: 0 4px 0px 0 #850000;
+      color: white;
+      font-weight: bold;
+      font-family: Tahoma;
+      text-align: center;
+      text-shadow: 0.5px 0.866px 0px black;
+      font-size: 28px;
+       }
+      .font .header .footer p {
+        margin-top: 10px; }
+        
+/*# sourceMappingURL=lenovo.css.map */
